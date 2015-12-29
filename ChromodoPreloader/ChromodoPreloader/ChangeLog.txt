@@ -1,0 +1,18 @@
+Chromodo Preloader is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+Chromodo Preloader is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Chromodo Preloader; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+_________________________________________________________________
+Change Log
+
+1.0 build 1 - Final
+¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
+• The ReadMe.txt file has been divided into ReadMe.txt, Manual.html, and ChangeLog.txt for easier reading.
+• The Preloader now uses the WaitForSingleObject method to wait until Chromodo terminates before it tries to reload it.  This is added to increase the number of methods that the preloader uses to check for Chromodo's status.  This should completely fix the empty window bug.
+
+(†) Noticeable only from source
+(‡) Cosmetic change
+
+Adapted for Chromodo
+-Link Satonaka
