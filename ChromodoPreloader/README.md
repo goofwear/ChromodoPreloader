@@ -1,10 +1,9 @@
-Palemoon-Preloader
+Chromodo Preloader
 ==================
 
-The firefox preloader, adapted for the palemoon fork.
+The Chromodo Preloader, adapted from the palemoon fork.
 Original source here: http://sourceforge.net/projects/ffpreloader/
-All credit goes to sixxgate for this preloader. My git repo just contains modifications that allows it to be compiled in VS2013, update some depreciated C++ syntax, and include binaries for the palemoon fork of firefox.
-
+All credit goes to sixxgate for this preloader. 
 Planned features:
  - Manually specify the exe name, so one build is not limited to specific firefox forks.
 
